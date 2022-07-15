@@ -1,0 +1,8 @@
+name: BeaconIgnore
+version: 0.1.0
+api-version: 1.19
+description: Lets you toggle beacon effect on you
+main: de.trebtee.beaconignore.Main
+commands:
+  beaconignore:
+    description: Toggle your Beacon-Setting
